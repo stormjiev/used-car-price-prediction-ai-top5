@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+
+# 比赛原始数据（天池数据禁止二次分发，请自行到官网下载放入 v2/data/raw/）
+v2/data/raw/used_car_train_20200313.csv
+v2/data/raw/used_car_testB_20200421.csv
+
+# 训练过程产物 / 日志
+**/catboost_info/
+*.log

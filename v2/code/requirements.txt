@@ -1,0 +1,9 @@
+# Verified local environment:
+# Python 3.13.5 (/opt/anaconda3/bin/python)
+# macOS arm64, Apple M4
+pandas==2.3.3
+numpy==2.1.3
+scikit-learn==1.8.0
+lightgbm==4.6.0
+catboost==1.2.8
+torch==2.9.1
